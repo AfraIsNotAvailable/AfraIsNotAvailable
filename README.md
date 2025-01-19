@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Șerban**
 
-Welcome to my GitHub profile! I'm a second-year Computer Science student at the [Technical University of Cluj-Napoca](https://ac.utcluj.ro/acasa.html), passionate about **software development**, *backend/frontend development*, and *game development*.
+Welcome to my GitHub profile! I'm a second-year Computer Science student at the [Technical University of Cluj-Napoca](https://ac.utcluj.ro/acasa.html), passionate about **software development**, **backend/frontend development**, and **game development**.
 
 ## About Me
 
