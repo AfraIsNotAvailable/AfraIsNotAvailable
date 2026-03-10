@@ -1,38 +1,35 @@
-# 👋 Hi there, I'm **Șerban**
+# Hi there, I'm Serban Afrasinei
 
-Welcome to my GitHub profile! I'm a second-year Computer Science student at the [Technical University of Cluj-Napoca](https://ac.utcluj.ro/acasa.html), passionate about **software development**, **backend/frontend development**, and **game development**.
+I am a Computer Science student at the **Technical University of Cluj-Napoca (UTCN)**, specializing in hardware-software integration and real-time systems.
 
-## About Me
+My engineering journey began with **FIRST Tech Challenge (FTC)**, where I developed a passion for robotics and low-level control. Today, I focus on building high-reliability embedded firmware while expanding into **Machine Learning and Deep Learning** to create more "intelligent" hardware.
 
-- 🎓 I’m currently pursuing my Bachelor's in Computer Science.
-- 💻 I love working with **Java**, **C/C++**, and **Python**.
-- 🌱 I’m currently learning more about **game development** and **modern web frameworks**.
-- 🤖 I'm passionate about **robotics** and have experience in **MySQL**, **HTML/CSS**, and a little **PHP**.
-- 🎯 My goal is to build projects that I'm proud of.
+## 🛠️ What I do
+* **Embedded Systems:** Architecting real-time, object-oriented C++ firmware for microcontrollers (ESP32, Arduino).
+* **Robotics & CNC:** Implementing G-code parsing, kinematic solvers, and motion control algorithms.
+* **Machine Learning:** Currently exploring predictive modeling and data analysis using **scikit-learn**.
 
-## 🛠️ Technologies & Tools
+## 📌 Featured Projects
 
-- **Programming Languages:** Java, C/C++, Python, MySQL, PHP
-- **Frontend Development:** HTML, CSS
-- **Backend Development:** Java Servlets
-- **Other Tools:** Git, CLion and IntelliJ, Visual Studio Code
+### [ESP32 Mecanum Robot Controller](https://github.com/afraisnotavailable/esp32_robot_controller)
+A real-time, RTOS-based control system for a four-wheel Mecanum drive robot.
+* Implemented a deterministic task scheduler using **FreeRTOS** to ensure strict 50Hz control loops.
+* Developed a modular **Subsystem** architecture with automated kinematic normalization for omnidirectional movement.
 
-## 🚀 Featured Projects
+### [Arduino Plotter](https://github.com/afraisnotavailable/arduino-plotter)
+A full-stack hardware/software project for an Arduino-based 2D plotter.
+* **Firmware:** Custom C++ implementation of a G-code parser and smooth stepper motor synchronization.
+* **Software Stack:** Developed a Python-based GUI and CLI for machine orchestration and G-code linearization.
 
-- [**Maze Solver**](https://github.com/AfraIsNotAvailable/mario_maze) - A maze solver terminal application in pure C++.
-- [**Embedded Average Calculator**](https://github.com/AfraIsNotAvailable/average-calculator) - An Average Calculator for a 7 Segment Display using **VHDL**
+## 💻 Tech Stack
+* **Languages:** C++, C, Python
+* **Embedded:** ESP-IDF, Arduino, FreeRTOS, PlatformIO
+* **AI/ML:** scikit-learn (Learning)
+* **Hardware:** ESP32, Stepper Drivers, Mecanum Kinematics
 
-... more coming soon
+## 📫 Let's Connect
+* **LinkedIn:** [afrasinei-serban](https://www.linkedin.com/in/afrasinei-serban/)
+* **Portfolio:** *Coming Soon*
 
-## 🌟 Interests
-
-- Backend and Full-Stack Development
-- Robotics and IoT
-- Game Development (currently exploring)
-- Open-source contributions
-
-## 📫 Let's Connect!
-
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/afrasinei-serban/)
-- Email: afrasinei.serban@gmail.com
-
+---
+*Always looking for opportunities to work on complex control systems and edge AI.*
